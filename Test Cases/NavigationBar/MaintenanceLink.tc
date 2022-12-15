@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MaintenanceLink</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48b23a4d-20be-4184-8c03-aee67fbb31ee</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bd2c4d0c-31a9-412e-83dc-9456f39d7e9d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bd2c4d0c-31a9-412e-83dc-9456f39d7e9d</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

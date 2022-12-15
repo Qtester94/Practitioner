@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EmployeeList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dde73c5e-1309-4a4b-98c7-818f57377cc2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ca9939ce-73cb-4253-b180-bb8467ad07d4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ca9939ce-73cb-4253-b180-bb8467ad07d4</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

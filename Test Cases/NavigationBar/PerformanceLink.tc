@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PerformanceLink</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d68596df-6e1e-49dc-a89d-f038d60429da</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9e838f15-8fcc-4e32-960f-86a971cb2304</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9e838f15-8fcc-4e32-960f-86a971cb2304</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

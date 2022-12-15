@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchByInvalidName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>589d610a-4213-44c0-bad5-eef188c74fc9</testCaseGuid>
+</TestCaseEntity>

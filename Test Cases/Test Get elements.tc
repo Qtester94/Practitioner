@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Get elements</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3dba632d-c3c1-4a93-9401-9d7848949dd1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f7807fae-e17b-4de6-aec4-39de954a33dc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1445ae5d-8ee1-4e1e-872d-d9ac8c0f0e90</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f7807fae-e17b-4de6-aec4-39de954a33dc</id>
+      <masked>false</masked>
+      <name>get_text1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1445ae5d-8ee1-4e1e-872d-d9ac8c0f0e90</id>
+      <masked>false</masked>
+      <name>get_text2</name>
+   </variable>
+</TestCaseEntity>

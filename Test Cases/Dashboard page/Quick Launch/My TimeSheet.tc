@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>My TimeSheet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d450e017-7dba-4612-883c-dc823e14ccd4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a0941892-2569-42b1-bdd8-a2c4a1af0f72</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a0941892-2569-42b1-bdd8-a2c4a1af0f72</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

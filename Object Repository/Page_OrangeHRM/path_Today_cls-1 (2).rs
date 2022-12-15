@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Today_cls-1 (2)</name>
+   <tag></tag>
+   <elementGuidId>ca9276e2-2a6f-4bac-8ba4-50330f3fea80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;app&quot;]/div[1]/div[2]/div[2]/div/div[3]/div/div[2]/div/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>bc7d91d2-78a4-4dab-a48a-67b229754675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cls-1</value>
+      <webElementGuid>ca8d76b8-5bb2-4573-b98e-7df8f3f5b67c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M 166.539 200.601 C 199 163.911 244 139.623 293.462 132.107 C 317.616 57.281 248.577 -14.694 169.154 2.596 C 89.731 19.85 59.5 113.41 114.77 170.982 C 128.693 185.496 146.654 195.751 166.539 200.601 Z M 115.385 333.148 C 115.385 300.974 123.308 269.281 138.462 240.588 L 57.693 240.588 C 25.846 240.588 0 265.468 0 296.124 L 0 314.636 C 0 381.279 59.616 449.774 162.308 462.732 C 131.616 426.041 115.039 380.243 115.385 333.148 Z M 500 333.148 C 500 461.4 355.77 541.557 240.385 477.431 C 125 413.305 125 252.991 240.385 188.865 C 266.693 174.24 296.539 166.539 326.923 166.539 C 422.616 166.354 500.231 241.069 500 333.148 Z M 417.308 346.106 C 418.923 344.366 420.231 342.367 421.154 340.182 C 421.731 337.887 421.731 335.48 421.154 333.148 C 421.731 330.852 421.731 328.446 421.154 326.113 C 420.346 323.818 418.885 321.744 416.923 320.189 L 340 246.141 C 329.654 236.182 311.962 240.736 308.154 254.361 C 306.385 260.692 308.27 267.43 313.077 272.058 L 357.308 314.636 L 250 314.636 C 235.193 314.636 225.962 330.075 233.346 342.404 C 236.77 348.143 243.116 351.66 250 351.66 L 357.308 351.66 L 313.462 394.238 C 303.116 404.234 307.846 421.265 322 424.894 C 328.577 426.597 335.577 424.783 340.385 420.155 L 417.308 346.106 Z</value>
+      <webElementGuid>35b4af99-1668-4b27-839f-ef7f2f76ace1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-dashboard-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-dashboard-widget&quot;]/div[@class=&quot;orangehrm-dashboard-widget-body&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-quick-launch&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-quick-launch-card&quot;]/button[@class=&quot;oxd-icon-button orangehrm-quick-launch-icon&quot;]/svg[@class=&quot;oxd-icon&quot;]/g[1]/path[@class=&quot;cls-1&quot;]</value>
+      <webElementGuid>6502e27e-cb4b-4e2b-9a8e-26c3f8c78489</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

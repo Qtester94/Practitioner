@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdf9d0fb-719b-4407-81d9-902f8b0becb7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>79ea003a-b758-4e10-8c89-e9447d027ef3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79ea003a-b758-4e10-8c89-e9447d027ef3</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

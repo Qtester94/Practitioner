@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Support</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb86f656-deed-48d8-9952-75816b240bb7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab2c70ce-02a5-4245-bdef-0942f5b95ac2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ab2c70ce-02a5-4245-bdef-0942f5b95ac2</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

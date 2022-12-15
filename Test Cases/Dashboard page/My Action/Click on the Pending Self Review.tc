@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Redirects to the required page</description>
+   <name>Click on the Pending Self Review</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb21158b-8f8b-4228-adb3-a640214c31e0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1d93e37f-ed24-43f1-bd39-0d0ccd85e2f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1d93e37f-ed24-43f1-bd39-0d0ccd85e2f8</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AdminLink</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7373f163-6e3e-4eea-a1cd-05e44f0ae092</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>54ed9c5d-bc4a-4776-acfe-c0bd0e93be7a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>54ed9c5d-bc4a-4776-acfe-c0bd0e93be7a</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

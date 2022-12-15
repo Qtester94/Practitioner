@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>259f90a9-4d97-4a39-afc0-a599f0e60071</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>4b519b3b-5745-46ca-b75f-2741375353f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M293.5,60C206.103,60,135,131.103,135,218.5S206.103,377,293.5,377S452,305.897,452,218.5S380.897,60,293.5,60z M293.5,90   C364.355,90,422,147.645,422,218.5c0,28.265-9.18,54.422-24.706,75.662C384.645,285.047,369.373,280,353.497,280H233.498   c-15.874,0-31.146,5.046-43.794,14.16C174.18,272.92,165,246.764,165,218.5C165,147.645,222.645,90,293.5,90z M210.379,316.411   c6.915-4.15,14.885-6.411,23.119-6.411h119.999c8.235,0,16.206,2.261,23.121,6.413C354.195,335.477,325.17,347,293.5,347   C261.829,347,232.803,335.477,210.379,316.411z</value>
+      <webElementGuid>aa7df00a-592e-44f4-aa5f-00286a6cfecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]/svg[@class=&quot;oxd-icon oxd-main-menu-item--icon&quot;]/g[1]/g[1]/path[2]</value>
+      <webElementGuid>cd9b7746-4562-482e-b8a3-364e7c1be345</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

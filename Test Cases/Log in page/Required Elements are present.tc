@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The required elemnts are present:
+- OrangeHRM logo
+- Username field
+- Passeord field
+- Login button
+-Forgot yout password link</description>
+   <name>Required Elements are present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37f82975-b355-401e-8bd0-5482fe9a867e</testCaseGuid>
+</TestCaseEntity>

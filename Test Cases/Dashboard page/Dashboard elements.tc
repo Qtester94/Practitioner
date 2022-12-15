@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Dashboard contains the following  elemenets:
+- Time at work card
+- My Actions card
+- Quick Launch card
+- Employees on Leave Today card
+- Employee Distribution by Sub Unit card
+- Employee Distribution by Location</description>
+   <name>Dashboard elements</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb933b05-1251-48eb-81ed-00c6ff3e03de</testCaseGuid>
+</TestCaseEntity>

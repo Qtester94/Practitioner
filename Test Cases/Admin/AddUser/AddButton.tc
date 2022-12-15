@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5dfdedf9-4fc0-429f-b46b-fc859c92ec99</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7400b9af-c749-40af-9a46-a4fab74ae2c1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7400b9af-c749-40af-9a46-a4fab74ae2c1</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

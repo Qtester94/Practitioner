@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Redirects to required page</description>
+   <name>Click on Leave Reaquest to Aprove</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1cff3d25-a604-4b64-8c2f-3f3994aab0ba</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5ef47a0-6317-4110-bce9-17c050ff38c9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a5ef47a0-6317-4110-bce9-17c050ff38c9</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

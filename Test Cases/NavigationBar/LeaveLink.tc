@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LeaveLink</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3688ae02-6ef7-48c6-a2aa-d3116cdee011</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>698ad69b-278c-4570-bf6e-f83cabbf2e8f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>698ad69b-278c-4570-bf6e-f83cabbf2e8f</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

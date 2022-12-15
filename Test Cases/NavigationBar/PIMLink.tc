@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PIMLink</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fba6ac01-13ed-4a13-af35-152ec5d7ac2e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3e1a10e0-71f2-46a1-87a1-7b87cd1d42a9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3e1a10e0-71f2-46a1-87a1-7b87cd1d42a9</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

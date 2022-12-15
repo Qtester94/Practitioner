@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Assign Leave
+- Leave List
+- Timesheets
+- Apply Leave
+- My Leave
+- My Timesheet</description>
+   <name>Quick Launch elements</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc7a008d-64d7-4113-b716-3ff126cb5a16</testCaseGuid>
+</TestCaseEntity>

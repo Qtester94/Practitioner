@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BuzzLink</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a34677d-203f-4c76-841a-2c954242c954</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>acd07a0d-8964-493b-ac6b-941860e49f5b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>acd07a0d-8964-493b-ac6b-941860e49f5b</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CancelButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bede7e6d-4c67-4bbc-9da6-24b21c3cec26</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2d7d5f45-1fe9-4e23-83cc-d3112a3f13a0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d7d5f45-1fe9-4e23-83cc-d3112a3f13a0</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

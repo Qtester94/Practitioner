@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Custom Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e9cf144-32e6-44e8-825a-a6edfa9af84b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a484df44-50c5-4291-8fce-f7d76baf554c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a484df44-50c5-4291-8fce-f7d76baf554c</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Today_cls-1 (1)</name>
+   <tag></tag>
+   <elementGuidId>0969a2fd-a0aa-4911-aa4c-b7fee2672c89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;app&quot;]/div[1]/div[2]/div[2]/div/div[3]/div/div[2]/div/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>e37cdbdc-ee3a-470d-b428-1fc4e0b0037a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cls-1</value>
+      <webElementGuid>bfd775c4-2627-40fb-86ad-53a6f45217ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M 165.715 0 C 38.349 0 -41.272 137.939 22.411 248.311 C 86.094 358.683 245.336 358.683 309.019 248.311 C 323.538 223.142 331.169 194.595 331.169 165.541 C 330.798 74.257 256.951 0.372 165.715 0 Z M 215.351 182.095 L 165.715 182.095 C 156.429 182.5 148.764 174.831 149.169 165.541 L 149.169 82.77 C 149.169 69.764 163.25 61.655 174.494 68.142 C 179.728 71.149 182.936 76.723 182.936 82.77 L 182.936 150.338 L 216.702 150.338 C 229.702 150.338 237.806 164.426 231.323 175.676 C 228.317 180.912 222.746 184.122 216.702 184.122 L 215.351 182.095 Z</value>
+      <webElementGuid>d514f679-87fb-428c-88a0-34437c172a69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-dashboard-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-dashboard-widget&quot;]/div[@class=&quot;orangehrm-dashboard-widget-body&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-quick-launch&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-quick-launch-card&quot;]/button[@class=&quot;oxd-icon-button orangehrm-quick-launch-icon&quot;]/svg[@class=&quot;oxd-icon&quot;]/g[1]/g[1]/path[@class=&quot;cls-1&quot;]</value>
+      <webElementGuid>7259cfaa-25fe-4d13-8c87-37603c328f06</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

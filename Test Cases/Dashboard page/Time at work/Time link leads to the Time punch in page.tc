@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Time link leads to the Time punch in page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34e59bb0-7ab9-48ae-b3cd-c1880fcabc40</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>839f9142-df7c-4652-8d1c-48a4abd9f4b0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>839f9142-df7c-4652-8d1c-48a4abd9f4b0</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>

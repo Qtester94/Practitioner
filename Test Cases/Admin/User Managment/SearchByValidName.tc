@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchByValidName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b5e1daf-cda9-44d4-8216-f436a5d253fe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3125763b-625a-4b81-a7a1-8ea3d1d75803</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Alice Duval'</defaultValue>
+      <description></description>
+      <id>3125763b-625a-4b81-a7a1-8ea3d1d75803</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

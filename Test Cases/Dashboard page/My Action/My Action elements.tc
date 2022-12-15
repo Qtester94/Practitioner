@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Leave Request to Aprove
+- Timesheets to Aprove
+- Pending Self Review
+- Candidate to Interview</description>
+   <name>My Action elements</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34f2e44b-4468-4547-becd-96fcc6a71731</testCaseGuid>
+</TestCaseEntity>

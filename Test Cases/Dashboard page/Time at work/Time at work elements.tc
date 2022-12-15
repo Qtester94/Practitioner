@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The folowing elements are present:
+- Photo
+- Punched Out
+- Time field with Time link
+- Week chart</description>
+   <name>Time at work elements</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21c63081-8acd-45a4-b9fc-1deea446184e</testCaseGuid>
+</TestCaseEntity>

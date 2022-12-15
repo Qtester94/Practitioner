@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Redirects to the required page</description>
+   <name>Click on the Assign Leave</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9bef022-6f37-4761-ab9f-8e7a292a52fb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa741527-5527-4072-a2e1-44bf3c61beeb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa741527-5527-4072-a2e1-44bf3c61beeb</id>
+      <masked>false</masked>
+      <name>link_event</name>
+   </variable>
+</TestCaseEntity>
