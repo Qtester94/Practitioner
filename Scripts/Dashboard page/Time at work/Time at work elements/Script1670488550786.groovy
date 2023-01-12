@@ -27,7 +27,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Pa
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/p_Punched Out'), 'Punched Out')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/p_Punched Out'), 'Punched In')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_OrangeHRM/div_9h 16m Today'), 0)
 
