@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
+WebUI.waitForPageLoad(10)
+
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_OrangeHRM/div_Login_orangehrm-login-branding'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_OrangeHRM/div_Username  AdminPassword  admin123'), 0)
